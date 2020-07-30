@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Larissa Sara :man_technologist
+# Larissa Sara :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissaSara)](https://www.linkedin.com/in/larissa-sara-cunha-sousa-16a68987/)
 
