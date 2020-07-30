@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissaSara)](https://www.linkedin.com/in/larissa-sara-cunha-sousa-16a68987/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram?style=flat-square&logo=Instagram&logo=Instagram&logoColor=white&link=https://www.instagram.com/laris_sara/)](https://www.instagram.com/laris_sara/)
-
